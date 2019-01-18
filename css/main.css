@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:700,900');
+
+.page {
+  font: 16px 'Rubik', sans-serif;
+  color: #099d8d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+
+}
+.page__smile {
+  margin: 0;
+  font-size: 40vw;
+}
+@media all and (min-width: 768px) {
+  .page__smile {
+    font-size: 200px;
+  }
+}
+@media all and (min-width: 1024px) {
+  .page__smile {
+    font-size: 250px;
+  }
+}
