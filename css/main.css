@@ -2,7 +2,8 @@
 
 .page {
   font: 16px 'Rubik', sans-serif;
-  color: #099d8d;
+  color: #0077cc;
+  background-color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
